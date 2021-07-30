@@ -10,6 +10,6 @@ Welcome to the fv-sectools's Wiki!
 ![picture](http://www.vicaria.org/static/pd3-powered.png)
 
 
-* [Official Website](https://www.vicaria.org) 
+* [Official Website](http://www.vicaria.org) 
 * [List of Current Issues](https://github.com/fvicaria/fv-sectools/issues)
 
