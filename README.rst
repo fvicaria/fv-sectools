@@ -11,4 +11,8 @@ Feel free to also check my `github`_ page.
 
 
 .. _`website`: http:/www.vicaria.org
+<<<<<<< HEAD
 .._`github`: https://github.com/fvicaria
+=======
+.. _`github`: https://github.com/fvicaria
+>>>>>>> 3bd418545af298bae2a2afb289b91d7a7d8484ff
